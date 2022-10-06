@@ -1,2 +1,2 @@
 #!/bin/bask
-cp -un *.html ../
+cp -nu *.html ..
